@@ -1,0 +1,17 @@
+{
+  "name": "vtex-io-components-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "vtex-test-tools test",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^16.14.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.0",
+    "@vtex/test-tools": "^3.4.0",
+    "typescript": "3.9.7"
+  }
+}
