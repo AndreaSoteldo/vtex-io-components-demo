@@ -1,0 +1,11 @@
+{
+  "size-recommender": {
+    "component": "SizeRecommender"
+  },
+  "countdown-banner": {
+    "component": "CountdownBanner"
+  },
+  "regret-button": {
+    "component": "RegretButton"
+  }
+}
