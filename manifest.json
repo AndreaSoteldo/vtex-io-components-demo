@@ -1,0 +1,16 @@
+{
+  "vendor": "andreasoteldo",
+  "name": "vtex-io-components-demo",
+  "version": "0.1.0",
+  "title": "VTEX IO Components Demo",
+  "description": "Componentes genéricos de ejemplo para tiendas VTEX IO: recomendador de talles, cuenta regresiva de eventos y botón de arrepentimiento.",
+  "builders": {
+    "react": "3.x",
+    "store": "0.x",
+    "messages": "1.x"
+  },
+  "dependencies": {
+    "vtex.css-handles": "1.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
